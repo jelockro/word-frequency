@@ -1,3 +1,4 @@
+#!/usr/bin/env python3.6
 import os
 from flask.ext.script import Manager
 from flask.ext.migrate import Migrate, MigrateCommand

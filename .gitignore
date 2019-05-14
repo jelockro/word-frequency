@@ -1,4 +1,5 @@
 venv/
 uvenv/
+env/
 .env
 nltk_data\tokenizers\punkt.zip
